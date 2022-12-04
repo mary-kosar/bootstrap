@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.about {
+    padding: 178px 0 248px 0;
+}
+
+.project {
+    padding: 70px 0 70px 0;
+}
+
+.project__image {
+    width: 100%;
+}
